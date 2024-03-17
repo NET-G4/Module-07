@@ -1,0 +1,8 @@
+Todos ->
+1 -> Tasks
+task -> 1 Todo
+
+---- Finance ----
+Income - Pul kelishi
+Expense - Pul ketishi
+Category
